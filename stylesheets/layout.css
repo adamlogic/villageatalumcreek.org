@@ -1,0 +1,319 @@
+/*************************************************************************************
+layout.css -- Village at Alum Creek (villageatalumcreek.org)
+
+Table of Contents:
+	TOP-LEVEL
+	SITE SEARCH
+	NAVIGATION
+	PAGE HEADER
+	PAGE BODY
+		MAIN CONTENT
+		SIDEBAR
+	PAGE FOOTER	
+		
+*************************************************************************************/
+
+
+/* TOP-LEVEL
+--------------------------------------------------------------------------------- */
+
+	*
+	{
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	body
+	{
+		text-align: center; /* ie centering hack */
+		background-color: #b5b08c;	
+	}
+
+	#pageWrapper
+	{
+		position: relative;
+		margin: 20px auto; /* centers the page (the right way) */
+		text-align: left; /* ie centering hack, continued */
+		padding: 31px 1px 1px 1px;
+		width: 760px;
+		border: 1px solid #807c5c;
+		background-image: url("../images/pageBackground.gif");
+		background-repeat: repeat-y;
+		background-position: 1px;
+	}
+
+
+/* SITE SEARCH
+--------------------------------------------------------------------------------- */
+
+	#siteSearch 
+	{
+		position: absolute;
+		top: 0px;
+		left: 1px;
+		padding: 5px 6px 5px;
+		width: 208px;
+		height: 20px;
+		border-top: 1px solid #b5b08c;
+		background-color: #fff;	
+	}
+
+	#siteSearch input
+	{
+		float: left;
+		margin: 0 5px 0 0;
+	}
+
+
+/* NAVIGATION
+--------------------------------------------------------------------------------- */
+
+	#navigation
+	{
+		position: absolute;
+		top: 0px;
+		right: 1px;
+		width: 560px;
+		height: 30px;
+		border-top: 1px solid #b5b08c;
+		background-color: #fff;	
+	}
+
+	#navigation ul
+	{
+		float: right;
+		margin: 0 10px 0 0;
+		height: 30px;
+	}
+
+	#navigation ul li
+	{
+		float: left;
+		padding: 5px 0 7px 20px;
+		height: 18px;
+		background-image: url("../images/navigationBullet.gif");
+		background-repeat: no-repeat;
+		background-position: 7px 12px;
+	}
+
+	#navigation ul li.first
+	{
+		background: none;
+	}
+
+	#navigation ul li.selected a
+	{
+		padding: 2px 0 4px;
+		border-top: 4px solid #134179;
+		border-bottom: 4px solid #134179;
+	}
+
+	#navigation ul li a:hover
+	{
+		padding: 2px 0 4px;
+		border-bottom: 4px solid #134179;
+	}
+
+
+/* PAGE HEADER
+--------------------------------------------------------------------------------- */
+
+	#pageHeader 
+	{
+		clear: both;
+		background-image: url("../images/homePageHeaderWide.jpg");
+		background-repeat: no-repeat;
+	}
+	
+	#pageHeader #headerContent
+	{
+		margin: 0 0 0 455px;
+		width: 300px;
+		height: 196px;
+		background-image: url("../images/headerBackground.png") !important;	
+		background-image: url("../images/headerBackground.gif");	
+		overflow: hidden;
+	}
+
+	#pageHeader h1
+	{
+		padding: 10px 0 20px 15px;
+		background-image: url("../images/pageTitleDivider.gif");
+		background-repeat: no-repeat;
+		background-position: 100% 37px;
+	}
+
+	#pageHeader p
+	{
+		padding: 0 15px 7px;
+	}
+
+	#pageHeader a
+	{
+		float: right;
+		padding: 10px 15px 0;
+	}
+
+
+/* PAGE BODY
+--------------------------------------------------------------------------------- */
+
+	#pageBody
+	{
+		padding: 10px 5px 10px 22px;
+		width: 733px;
+	}
+
+
+	/* MAIN CONTENT
+	--------------------------------------------------------------------------------- */
+
+		#mainContent
+		{
+			float: left;
+			width: 500px;
+		}
+
+		#mainContent h2
+		{
+			padding: 0 0 10px 0;
+
+		}
+
+
+		#mainContent h3
+		{
+			padding: 0 0 10px 0;
+                        color: #999999;
+                        text-size: 1.0em;
+
+		}
+		#mainContent div.article
+		{
+			padding: 20px 20px 0 0;
+		}
+
+		#mainContent div.article p
+		{
+			padding: 0 0 10px 0;
+		}
+
+		#mainContent div.article ul,
+		#mainContent div.article ol
+		{
+			padding: 0 0 7px 30px;
+		}
+
+		#mainContent div.article ul li
+		{
+			padding: 0 0 3px 0;
+			list-style: square;
+		}
+
+
+		#mainContent div.article ul li a,
+		#mainContent div.article ol li a
+		{
+			font-size: 1em;
+			border-bottom: 1px dashed #134179;
+			padding: 8px 0 0 0;
+			margin: 8px 0 0 0;		
+		}
+
+		#mainContent div.article ol li		
+		{
+			padding: 0 0 3px 0;
+			list-style: decimal;
+		}
+
+
+		#mainContent div.article blockquote
+		{
+			margin: 0 0 10px 15px;
+			padding: 0 0 0 15px;
+			border-left: 3px solid #134179;
+		}
+
+		#mainContent p.author
+		{
+			padding: 3px 0 0 0;
+		}
+
+		#mainContent #contentFooter
+		{
+			padding: 20px 0 0;
+		}
+
+		#mainContent #contentFooter ul li
+		{
+			float: left;
+			padding: 0 0 0 18px;
+			background-image: url("../images/contentFooterBullet.gif");
+			background-repeat: no-repeat;
+			background-position: 7px 9px;
+		}
+
+		#mainContent #contentFooter ul li.first
+		{
+			padding: 0;
+			background: none;
+		}
+
+
+	/* SIDEBAR
+	--------------------------------------------------------------------------------- */
+
+		#sidebar
+		{
+			float: right;
+			padding: 0 0 15px;
+			width: 233px;
+		}
+
+		#sidebar div.section
+		{
+			padding: 10px 0 0;
+		}
+
+		#sidebar h2
+		{
+			padding: 10px 0 10px 22px;
+			background-image: url("../images/sidebarTitleDivider.gif");
+			background-repeat: no-repeat;
+			background-position: 100% 33px;
+		}
+
+		#sidebar ul li
+		{
+			padding: 2px 20px 0px 45px;
+			background-image: url("../images/navigationBullet.gif");
+			background-repeat: no-repeat;
+			background-position: 32px 9px;
+		}
+
+		#sidebar a.more
+		{
+			float: right;
+			padding: 0 20px;
+		}
+
+
+/* PAGE FOOTER
+--------------------------------------------------------------------------------- */
+
+	#pageFooter
+	{
+		clear: both;
+		position: relative;
+		top: 1px;
+		height: 19px;
+		padding: 3px;
+		border-bottom: 1px solid #b5b08c;
+		background-color: #134179;
+	}
+
+	#pageFooter p
+	{
+		text-align: center;
+	}

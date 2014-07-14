@@ -1,0 +1,165 @@
+/*************************************************************************************
+typography.css -- Village at Alum Creek (villageatalumcreek.org)
+
+Table of Contents:
+	TOP-LEVEL
+	SITE SEARCH
+	NAVIGATION
+	PAGE HEADER
+	PAGE BODY
+		MAIN CONTENT
+		SIDEBAR
+	PAGE FOOTER	
+		
+*************************************************************************************/
+
+
+/* TOP-LEVEL
+--------------------------------------------------------------------------------- */
+
+	*
+	{
+		text-decoration: none;
+	}
+
+	body
+	{
+		font-family: verdana, helvetica, sans-serif;
+		font-size: .8em;
+		line-height: 140%;
+	}
+
+
+/* SITE SEARCH
+--------------------------------------------------------------------------------- */
+
+
+/* NAVIGATION
+--------------------------------------------------------------------------------- */
+
+	#navigation a
+	{
+		color: #000;
+	}
+
+
+/* PAGE HEADER
+--------------------------------------------------------------------------------- */
+
+	#pageHeader h1
+	{
+		font-family: garamond, serif;
+		font-size: 1.7em;
+		font-weight: bold;
+		color: #fff;
+		letter-spacing: -.03em;
+	}
+
+	#pageHeader p
+	{
+		line-height: 130%;
+	}
+
+	#pageHeader a
+	{
+		font-size: .7em;
+		font-weight: bold;
+		color: #4f4f4f;
+	}
+
+
+/* PAGE BODY
+--------------------------------------------------------------------------------- */
+
+
+	/* MAIN CONTENT
+	--------------------------------------------------------------------------------- */
+
+		#mainContent #contentHeader
+		{
+			font-size: .74em;
+			letter-spacing: .2em;
+		}
+
+		#mainContent h2
+		{
+			font-family: garamond, serif;
+			font-size: 1.8em;
+			font-weight: normal
+			color: #134179;
+		}
+
+
+		#mainContent h3
+		{
+			font-family: garamond, serif;
+			font-size: 1.3em;
+			font-weight: bold;
+			color: #999999;
+		}
+
+		#mainContent a
+		{
+			font-size: 1em;
+			font-weight: bold;
+			color: #134179;/*changed from 848484*/
+		}
+
+		#mainContent h2 a
+		{
+			font-family: garamond, serif;
+			font-size: 1.1em;
+			font-weight: bold
+			color: #134179;
+			line-height: 100%;
+		}
+
+		#mainContent p a
+		{
+			border-bottom: 1px dashed #134179;/*changed from 848484*/
+		}
+
+		#mainContent p.author
+		{
+			font-size: .7em;
+			color: #848484;
+		}
+
+		.divider
+		{
+			border-top: 1px solid #cccccc;
+			padding: 10px 0 10px 0;
+			margin: 10px 0 10px 0;
+		}
+
+	/* SIDEBAR
+	--------------------------------------------------------------------------------- */
+
+		#sidebar h2
+		{
+			font-family: garamond, serif;
+			font-size: 1.6em;
+			font-weight: normal;
+		}
+		
+		#sidebar a
+		{
+			color: #134179;
+		}
+
+		#sidebar a.more
+		{
+			font-size: .7em;
+			font-weight: bold;
+			color: #848484;
+		}
+
+
+/* PAGE FOOTER
+--------------------------------------------------------------------------------- */
+
+	#pageFooter p
+	{
+		color: #aaa;
+		font-size: .8em;
+	}

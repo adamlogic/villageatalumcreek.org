@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+  <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+
+  <link rel="stylesheet" href="/stylesheets/layout.css" />
+  <link rel="stylesheet" href="/stylesheets/typography.css" />
+  <link rel="stylesheet" href="/stylesheets/lightbox.css" />
+
+  <script type="text/javascript" src="/javascripts/prototype.js"></script>
+  <script type="text/javascript" src="/javascripts/effects.js"></script>
+  <script type="text/javascript" src="/javascripts/lightbox.js"></script>
+  <script type="text/javascript" src="/javascripts/wp.js"></script>
+
+  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    _uacct = "UA-78542-5";
+    urchinTracker();
+  </script>
+</head>
+
+<body>
+  <div id="pageWrapper">
+    <div id="pageHeader">
+      <div id="headerContent">
+        <h1>The Village at Alum Creek</h1>
+        <p>Welcome to the Village at Alum Creek, a neighborhood of 445 homes in Lewis Center, Ohio. This website is created and maintained by the VAC Homeowners Association:</p><p>P.O. Box 272<br/>Lewis Center, Ohio 43035</p>
+      </div>
+    </div>
+
+    <div id="pageBody">
+      {{ content }}
+    </div>
+
+    <div id="navigation">
+      <ul>
+        <li class="first"><a href="/index.html">Home</a></li>
+        <li><a href="/pages/events.html">Events</a></li>
+        <li><a href="/pages/homeowners-association.html">HOA Information</a></li>
+        <li><a href="/pages/new-residents.html">New Residents</a></li>
+        <li><a href="/pages/classifieds.html">Classifieds</a></li>
+        <li><a href="/pages/community.html">Area Links</a></li>
+      </ul>
+    </div>
+
+    <div id="siteSearch">
+      <form action="http://www.google.com/search" method="get" id="frmSiteSearch" name="frmSiteSearch">
+        <input type="hidden" value="UTF-8" id="ie" name="ie"/>
+        <input type="hidden" value="UTF-8" id="oe" name="oe"/>
+        <input type="hidden" value="www.villageatalumcreek.org" id="domains" name="domains"/>
+        <input type="hidden" value="www.villageatalumcreek.org" id="sitesearch" name="sitesearch"/>
+        <input type="text" value="Search this site" id="q" name="q"/>
+        <input type="image" src="/images/searchButton.gif" id="btnSearch" name="btnSearch"/>
+      </form>
+    </div>
+
+    <div id="pageFooter">
+      <p>designed by Adam McCrea, powered by Jekyll</p>
+    </div>
+  </div>
+</body>
+
+</html>
