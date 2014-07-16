@@ -1,3 +1,27 @@
 ---
-layout: post
+layout: base
 ---
+
+<div id="mainContent">
+  {% for post in site.posts %}
+    <div class="article">
+      <h2><a href="{{post.url}}" rel="bookmark" title="Permanent Link to {{post.title}}">{{post.title}}</a></h2>
+
+      <div class="content">
+        {{ post.content }}
+      </div>
+
+      <p class="author">
+        Posted on {{ post.date | date:"%b %d, %Y" }}
+        {% if post.author %} by {{post.author}} {% endif %}
+      </p>
+    </div>
+  {% endfor %}
+</div>
+
+<div id="sidebar">
+  <div class="section">
+    {% capture blogsidebar %}{% include blog-sidebar.md %}{% endcapture %}
+    {{ blogsidebar | markdownify }}
+  </div>
+</div>
