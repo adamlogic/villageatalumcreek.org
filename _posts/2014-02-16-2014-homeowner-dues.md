@@ -23,5 +23,5 @@ Pay your Homeowner’s fees by mail or through the link below.
 
 ![][3]
 
-   [2]: http://www.villageatalumcreek.org/wp-content/uploads/2010/11/dollar%20sign%20bw%20image.bmp
+   [2]: /uploads/dollar%20sign%20bw%20image.bmp
    [3]: https://www.paypalobjects.com/en_US/i/scr/pixel.gif

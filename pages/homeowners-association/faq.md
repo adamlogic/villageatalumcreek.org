@@ -51,10 +51,10 @@ not the largest subdivision in Lewis Center.
 If you have any other questions you’d like addressed in these pages, please
 [send us an email][50] and we’ll get it answered.
 
-   [44]: http://www.villageatalumcreek.org/wp-content/uploads/2006/04/warranty_deed_of_restrictions.pdf
+   [44]: /uploads/warranty_deed_of_restrictions.pdf
    [45]: http://www.villageatalumcreek.org/homeowners-association/official-documents/
    [46]: http://www.villageatalumcreek.org/homeowners-association/budget/
-   [47]: http://www.villageatalumcreek.org/wp-content/uploads/2006/05/VAC%20improvement%20app.doc
+   [47]: /uploads/VAC%20improvement%20app.doc
    [48]: http://www.villageatalumcreek.org/events
    [49]: mailto:subscribe@villageatalumcreek.org
    [50]: mailto:vachoa@villageatalumcreek.org

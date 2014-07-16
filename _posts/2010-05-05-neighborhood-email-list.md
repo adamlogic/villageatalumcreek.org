@@ -14,6 +14,6 @@ important news out quickly. Please spread the word to any new neighbors!
 ![Email Image][13]
 
    [12]: mailto:Subscribe@villageatalumcreek.org
-   [13]: http://www.villageatalumcreek.org/wp-content/uploads/2010/11/email%20image.bmp
+   [13]: /uploads/email%20image.bmp
 
 

@@ -58,7 +58,7 @@ prices)**_
 If you have any other questions please feel free to contact Cedar Craft by
 phone (614)759-1600.
 
-   [61]: http://www.villageatalumcreek.org/wp-content/uploads/2009/04/VAC%20HOA%20Mailbox%20Policy%2020090424%20V2.pdf
-   [68]: http://www.villageatalumcreek.org/wp-content/uploads/duffy_hl01.jpg
-   [69]: http://www.villageatalumcreek.org/wp-content/uploads/.thumbs/.duffy_hl01.jpg (duffy_hl01.jpg)
+   [61]: /uploads/VAC%20HOA%20Mailbox%20Policy%2020090424%20V2.pdf
+   [68]: /uploads/duffy_hl01.jpg
+   [69]: /uploads/.duffy_hl01.jpg (duffy_hl01.jpg)
    [70]: mailto:sales@cedar-craft.com

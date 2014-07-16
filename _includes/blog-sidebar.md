@@ -130,17 +130,17 @@
   * [May 2010][32]  
 
    [1]: http://www.advancetechinspections.com
-   [2]: http://www.villageatalumcreek.org/wp-content/uploads/2011/03/Art_3.JPG
+   [2]: /uploads/Art_3.JPG
    [3]: http://www.appsparamedical.com
    [4]: mailto:architecturalreview@villageatalumcreek.org
    [5]: http://www.villageatalumcreek.org/homeowners-association/budget/
    [6]: http://www.clarkseniorservices.ocm
    [7]: http://www.columbushealthandwellness.com
-   [8]: http://www.villageatalumcreek.org/wp-content/uploads/2006/04/warranty_deed_of_restrictions.pdf
+   [8]: /uploads/warranty_deed_of_restrictions.pdf
    [9]: mailto:vachoa@villageatalumcreek.org
-   [10]: http://www.villageatalumcreek.org/wp-content/uploads/2014/02/BobCarpenter1.jpg
+   [10]: /uploads/BobCarpenter1.jpg
    [11]: http://jedkeslerdds.com/
-   [12]: http://www.villageatalumcreek.org/wp-content/uploads/2011/03/LC%20HVAC%20VAC%20ad%202010%20final.pdf
+   [12]: /uploads/LC%20HVAC%20VAC%20ad%202010%20final.pdf
    [13]: https://www.facebook.com/lorihihovacations
    [14]: http://www.villageatalumcreek.org/classifieds/lost-and-found/
    [15]: http://www.villageatalumcreek.org/homeowners-association/mailboxes/
@@ -150,7 +150,7 @@
    [19]: http://www.orangetwp.org/index.htm
    [20]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CDLKBT8MXTDD2
    [21]: http://www.postnet.com/lewis-center-oh116/
-   [22]: http://www.villageatalumcreek.org/wp-content/uploads/2008/05/AppExternalImprovement.pdf
+   [22]: /uploads/AppExternalImprovement.pdf
    [23]: mailto:propertyupkeep@villageatalumcreek.org
    [24]: http://www.caringbridge.org/visit/ryanhardy
    [25]: http://www.villageatalumcreek.org/2007/10/23/neighborhood-announcement-email-list/
