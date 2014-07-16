@@ -1,0 +1,26 @@
+---
+layout: page
+---
+
+<div id="mainContent">
+  <div class="article" id="post-54">
+    <h2><a href="{{page.url}}" rel="bookmark" title="Permanent Link to {{page.title}}">{{page.title}}</a></h2>
+      
+    <div class="content">
+      {{ content }}
+    </div>
+  </div>
+</div>
+
+<div id="sidebar">
+  <div class="section">
+    <h2>Menu</h2>
+    <ul>
+      {% for page in site.pages %}
+        {% if page.layout == 'events' %}
+          <li><a href="{{page.url}}">{{page.title}}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
