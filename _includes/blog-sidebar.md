@@ -122,18 +122,11 @@
 [Webmaster][27]  
 [Western International Securities, Inc.][28]  
 
-## Old News
-
-  * [February 2014][29]  
-  * [June 2013][30]  
-  * [May 2013][31]  
-  * [May 2010][32]  
-
    [1]: http://www.advancetechinspections.com
    [2]: /uploads/Art_3.JPG
    [3]: http://www.appsparamedical.com
    [4]: mailto:architecturalreview@villageatalumcreek.org
-   [5]: http://www.villageatalumcreek.org/homeowners-association/budget/
+   [5]: /pages/homeowners-association/budget.html
    [6]: http://www.clarkseniorservices.ocm
    [7]: http://www.columbushealthandwellness.com
    [8]: /uploads/warranty_deed_of_restrictions.pdf
@@ -142,22 +135,18 @@
    [11]: http://jedkeslerdds.com/
    [12]: /uploads/LC%20HVAC%20VAC%20ad%202010%20final.pdf
    [13]: https://www.facebook.com/lorihihovacations
-   [14]: http://www.villageatalumcreek.org/classifieds/lost-and-found/
-   [15]: http://www.villageatalumcreek.org/homeowners-association/mailboxes/
-   [16]: http://www.villageatalumcreek.org/homeowners-association
-   [17]: http://www.villageatalumcreek.org/homeowners-association/leaders/
-   [18]: http://www.villageatalumcreek.org/homeowners-association/official-documents/
+   [14]: /pages/classifieds/lost-and-found.html
+   [15]: /pages/homeowners-association/mailboxes.html
+   [16]: /pages/homeowners-association/index.html
+   [17]: /pages/homeowners-association/leaders.html
+   [18]: /pages/homeowners-association/official-documents.html
    [19]: http://www.orangetwp.org/index.htm
    [20]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CDLKBT8MXTDD2
    [21]: http://www.postnet.com/lewis-center-oh116/
    [22]: /uploads/AppExternalImprovement.pdf
    [23]: mailto:propertyupkeep@villageatalumcreek.org
    [24]: http://www.caringbridge.org/visit/ryanhardy
-   [25]: http://www.villageatalumcreek.org/2007/10/23/neighborhood-announcement-email-list/
+   [25]: /2010/05/05/neighborhood-email-list.html
    [26]: mailto:blockwatch@villageatalumcreek.org
    [27]: mailto:webmaster@villageatalumcreek.org
    [28]: http://www.robelger.com/
-   [29]: http://www.villageatalumcreek.org/2014/02/
-   [30]: http://www.villageatalumcreek.org/2013/06/
-   [31]: http://www.villageatalumcreek.org/2013/05/
-   [32]: http://www.villageatalumcreek.org/2010/05/

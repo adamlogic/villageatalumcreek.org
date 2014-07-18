@@ -31,10 +31,10 @@ opportunities!
 If you own a business and would like to sponsor a basket or add coupons
 available to new residents, please contact the trustees.
 
-   [1]: http://www.villageatalumcreek.org/homeowners-association/official-documents/
+   [1]: /pages/homeowners-association/official-documents.html
    [2]: mailto:vachoa@villageatalumcreek.org
    [3]: mailto:subscribe@villageatalumcreek.org
-   [4]: http://www.villageatalumcreek.org/resources/township-community/
+   [4]: /pages/resources/township-community.html
    [5]: /uploads/Directory%20Information%20Sheet.doc
 
 

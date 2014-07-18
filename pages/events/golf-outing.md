@@ -18,7 +18,7 @@ TBA    Neighborhood Picnic
 
 Spring/Summer    Neighborhood Garage Sale
 
-http://www.villageatalumcreek.org/events/easter-egg-hunt/
+/events/easter-egg-hunt.html
 
 ### **2011 Community Easter Egg Hunt**
 
@@ -58,7 +58,7 @@ Thank you Shelli Clark for chairing this event!
 
 [![VAC Easter Egg Hunt 2006 001.jpg][32]][33]
 
-http://www.villageatalumcreek.org/events/golf-outing/
+/events/golf-outing.html
 
 ### 2011 Golf Outing
 
@@ -78,20 +78,6 @@ please give us a call.
 **PROCEEDS GO TO:**  
 If you would like to help, contact Don Berberick (614-634-1522) or Marty
 Luxeder (614-286-3580)
-
-http://www.villageatalumcreek.org/events/garage-sale/
-
-The Village at Alum Creek holds a neighborhood garage sale each year. It has
-traditionally been held in late spring/early summer and has had approximately
-50 families participate each year.
-
-Thanks to Tracey Fisher for organizing the 2010 and 2011 garage sales!
-
-http://www.villageatalumcreek.org/events/community-picnic/
-
-### 2010
-
-If you would like to chair a neighborhood picnic, please let us know.
 
    [1]: mailto:trustees@villageatalumcreek.org
    [2]: /uploads/easter%20basket.bmp
