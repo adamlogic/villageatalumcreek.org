@@ -1,2 +1,48 @@
 name: Village at Alum Creek
 markdown: kramdown
+prose:
+  siteurl: 'http://vac.adamlogic.com/'
+  relativeLinks: 'http://vac.adamlogic.com/api/links.jsonp'
+  media: 'uploads'
+  ignore:
+    - /_includes
+    - /_layouts
+    - /api
+    - /images
+    - /javascripts
+    - /stylesheets
+    - _config.yml
+    - CNAME
+    - index.html
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: "Marty"
+    pages:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "no-menu"
+    pages/classifieds:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "classifieds"
+    pages/events:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "events"
+    pages/homeowners-association:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "homeowners-association"
+
