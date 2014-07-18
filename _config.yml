@@ -14,6 +14,7 @@ prose:
     - _config.yml
     - CNAME
     - index.html
+    - .gitignore
   metadata:
     _posts:
       - name: "layout"
