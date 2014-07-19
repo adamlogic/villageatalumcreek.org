@@ -235,6 +235,12 @@ Table of Contents:
 			border-left: 3px solid #134179;
 		}
 
+		#mainContent div.article img
+		{
+			max-width: 100%;
+      border: 1px solid gray;
+		}
+
 		#mainContent p.author
 		{
 			padding: 3px 0 0 0;
