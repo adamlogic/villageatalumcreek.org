@@ -10,10 +10,7 @@ This site is hosted by [GitHub Pages](https://pages.github.com), and all of the 
 
 The guide is divided into the following sections:
 
-- [Get admin access](/administrators-guide/get-admin-access.html) – This page explains the process of getting admin access and logging into Prose.
-- [Site organization](/administrators-guide/site-organization.html) – Before creating and editing the site content, it helps to understand how it is organized in Prose, and especially the difference between "pages" and "blog posts".
-- [Create a page](/administrators-guide/create-a-page.html) – Learn how to create a new page.
-- [Edit a page](/administrators-guide/edit-a-page.html) – Learn how to edit a page that already exists on the site.
-- [Create a blog post](/administrators-guide/create-a-blog-post.html) – Learn how to post to our blog.
-- [Edit the sidebar links](/administrators-guide/edit-sidebar-links.html) – Manage our (massive) list of links in the blog sidebar.
-- [How it all works](/administrators-guide/how-it-works.html) – This gets a bit technical, but check it out if you'd like to know how this site is built and all the pieces that make it happen.
+- [Get admin access](/pages/administrators-guide/2014-07-19-get-admin-access.html) – This page explains the process of getting admin access and logging into Prose.
+- [Site organization](/pages/administrators-guide/2014-07-19-site-organization.html) – Before creating and editing the site content, it helps to understand how it is organized in Prose, and especially the difference between "pages" and "blog posts".
+- [Create a page](/pages/administrators-guide/2014-07-19-create-a-page.html) – Learn how to create a new page or blog post.
+- [Edit the sidebar links](/pages/administrators-guide/2014-07-19-add-a-sidebar-link.html) – Manage our (massive) list of links in the blog sidebar.
