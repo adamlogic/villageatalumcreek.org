@@ -1,9 +1,10 @@
 ---
-layout: administrators-guide
+layout: "administrators-guide"
 title: Administrators Guide
+published: true
 ---
 
-If you already have admin access and you just want to log in, [log into Prose here](http://prose.io).
+If you already have admin access and you just want to dive in, [visit our Prose console here](http://prose.io/#vachoa/villageatalumcreek.org). If you see a little green button in the bottom right, click that to authorize with GitHub.
 
 This site is hosted by [GitHub Pages](https://pages.github.com), and all of the content management is done through [Prose](http://prose.io). This guide is intended to walk you through how to use Prose to create and edit the site's content.
 
