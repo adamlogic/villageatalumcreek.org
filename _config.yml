@@ -16,6 +16,11 @@ prose:
     - .gitignore
   metadata:
     _posts:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published?"
+          value: "true"
       - name: "layout"
         field:
           element: "hidden"
@@ -31,6 +36,11 @@ prose:
           label: "Author"
           value: "Marty"
     pages:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published?"
+          value: "true"
       - name: "layout"
         field:
           element: "hidden"
@@ -41,6 +51,11 @@ prose:
           label: "Title"
           value: ""
     pages/classifieds:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published?"
+          value: "true"
       - name: "layout"
         field:
           element: "hidden"
@@ -51,6 +66,11 @@ prose:
           label: "Title"
           value: ""
     pages/events:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published?"
+          value: "true"
       - name: "layout"
         field:
           element: "hidden"
@@ -61,6 +81,11 @@ prose:
           label: "Title"
           value: ""
     pages/homeowners-association:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published?"
+          value: "true"
       - name: "layout"
         field:
           element: "hidden"
@@ -71,6 +96,11 @@ prose:
           label: "Title"
           value: ""
     pages/administrators-guide:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published?"
+          value: "true"
       - name: "layout"
         field:
           element: "hidden"
