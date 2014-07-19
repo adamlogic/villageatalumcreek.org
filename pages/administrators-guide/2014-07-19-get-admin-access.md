@@ -1,6 +1,6 @@
 ---
 layout: "administrators-guide"
-published: false
+published: true
 title: Get Admin Access
 ---
 
