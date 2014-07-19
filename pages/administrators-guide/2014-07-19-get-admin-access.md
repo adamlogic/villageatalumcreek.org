@@ -26,4 +26,4 @@ Now that your GitHub account is set up, you'll log into Prose, which we use to a
 
 ![authorize-on-github.gif](/uploads/authorize-on-github.gif)
 
-Now that you're "logged in" on Prose, use [this link](http://prose.io/#vachoa/villageatalumcreek.org) to go directly to the VAC website content, and you're [ready to explore]().
+Now that you're "logged in" on Prose, use [this link](http://prose.io/#vachoa/villageatalumcreek.org) to go directly to the VAC website content, and you're [ready to explore](/pages/administrators-guide/2014-07-19-site-organization.html).
