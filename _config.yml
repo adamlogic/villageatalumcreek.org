@@ -1,8 +1,8 @@
 name: Village at Alum Creek
 markdown: kramdown
 prose:
-  siteurl: 'http://vac.adamlogic.com/'
-  relativeLinks: 'http://vac.adamlogic.com/api/links.jsonp'
+  siteurl: 'http://www.villageatalumcreek.org/'
+  relativeLinks: 'http://www.villageatalumcreek.org/api/links.jsonp'
   media: 'uploads'
   ignore:
     - /_includes
