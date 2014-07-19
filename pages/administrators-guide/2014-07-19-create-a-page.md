@@ -19,3 +19,5 @@ When you're done writing, click the "save" button, then "commit".
 That's it! You've created a page, and it should be live on the site within seconds.
 
 Creating a blog post almost identical, except the you create it within the "posts" folder, and you should specify an author. To specify the author, you use the "metadata" icon on the right side.
+
+![specifying-the-author.gif](/uploads/specifying-the-author.gif)
