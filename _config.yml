@@ -46,4 +46,9 @@ prose:
         field:
           element: "hidden"
           value: "homeowners-association"
+    pages/administrators-guide:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "administrators-guide"
 

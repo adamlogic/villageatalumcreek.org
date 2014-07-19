@@ -163,3 +163,8 @@ Table of Contents:
 		color: #aaa;
 		font-size: .8em;
 	}
+	#pageFooter a
+	{
+		color: #aaa;
+    text-decoration: underline;
+  }
