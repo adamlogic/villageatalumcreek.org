@@ -22,7 +22,7 @@ If you're a collaborator and need to add someone, go to our [Website Contributor
 
 ## Log into Prose
 
-Now that your GitHub account is set up, you'll log into Prose, which we use to actually edit the content of our website. Go to [prose.io](http://prose.io/) and click the "authorize on GitHub" button.
+Now that your GitHub account is set up, you'll log into Prose, which we use to actually edit the content of our website. Go to [prose.io](http://prose.io/) and click the "authorize on GitHub" button. You'll be momentarily taken back to GitHub where you'll need to click "authorize application" and enter your password to confirm.
 
 ![authorize-on-github.gif](/uploads/authorize-on-github.gif)
 
