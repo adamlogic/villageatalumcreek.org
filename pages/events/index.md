@@ -14,7 +14,7 @@ Trustees at [trustees@villageatalumcreek.org][1].
 
 **Spring**    Easter Egg Hunt
 
-**TBA**    Neighborhood Picnic
+**October**    [Cookout on the Square](/pages/events/cookout.html)
 
 **Spring/Summer**    Neighborhood Garage Sale
 
