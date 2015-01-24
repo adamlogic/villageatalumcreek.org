@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 2014 Homeowner Dues
+title: 2015 Homeowner Dues
 author: Marty
 ---
 
-**Homeowners Dues letters were mailed January 21, 2014**.
+**Homeowners Dues letters were mailed in January**.
 
 ![dollar sign bw][2]
 
-The dues for 2014 are $203.00. Attached below are the documents you can print
+The dues for 2015 are $203.00. Attached below are the documents you can print
 out as well.  If you don’t receive your invoice in a timely manner or have any
 questions, contact cindy@villageatalumcreek.org
 
