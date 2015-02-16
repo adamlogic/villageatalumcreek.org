@@ -22,7 +22,6 @@
 [Pay 2013 Dues Online][20]  
 [PostNet][21]  
 [Property Improvement Application][22]  
-[Property Use & Upkeep Committee][23]  
 [Ryan Hardy – CaringBridge site][24]  
 [Subscribe to the VAC Email List][25]  
 [VAC Block Watch][26]  
@@ -53,7 +52,6 @@
 [Pay 2013 Dues Online][20]  
 [PostNet][21]  
 [Property Improvement Application][22]  
-[Property Use & Upkeep Committee][23]  
 [Ryan Hardy – CaringBridge site][24]  
 [Subscribe to the VAC Email List][25]  
 [VAC Block Watch][26]  
@@ -84,7 +82,6 @@
 [Pay 2013 Dues Online][20]  
 [PostNet][21]  
 [Property Improvement Application][22]  
-[Property Use & Upkeep Committee][23]  
 [Ryan Hardy – CaringBridge site][24]  
 [Subscribe to the VAC Email List][25]  
 [VAC Block Watch][26]  
@@ -115,7 +112,6 @@
 [Pay 2013 Dues Online][20]  
 [PostNet][21]  
 [Property Improvement Application][22]  
-[Property Use & Upkeep Committee][23]  
 [Ryan Hardy – CaringBridge site][24]  
 [Subscribe to the VAC Email List][25]  
 [VAC Block Watch][26]  
@@ -144,7 +140,6 @@
    [20]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CDLKBT8MXTDD2
    [21]: http://www.postnet.com/lewis-center-oh116/
    [22]: /uploads/AppExternalImprovement.pdf
-   [23]: mailto:propertyupkeep@villageatalumcreek.org
    [24]: http://www.caringbridge.org/visit/ryanhardy
    [25]: /2010/05/05/neighborhood-email-list.html
    [26]: mailto:blockwatch@villageatalumcreek.org
