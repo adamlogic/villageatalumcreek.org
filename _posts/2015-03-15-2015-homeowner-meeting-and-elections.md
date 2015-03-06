@@ -4,7 +4,7 @@ title: 2015 Annual Meeting and Elections!
 author: Adam
 ---
 
-**When:**   Wednesday, March 18th at 7:00 PM 
+**When:**   Wednesday, March 18th at 7:00 PM  
 **Where:**  The Community Room at the Orange Township Pool,
               7560 Gooding Blvd. 
 
