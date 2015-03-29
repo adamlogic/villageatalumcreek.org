@@ -7,10 +7,6 @@ title: Budget & Dues
   * [2011 Budget][52]
   * [2010 financial summary][53]
 
-If you or your title company need help or information when closing on a home
-sale, please contact [marty@villageatalumcreek.org][37]
-
-   [37]: mailto:marty@villageatalumcreek.org
    [51]: /uploads/2011%20dues%20letter_.pdf
    [52]: /uploads/VAC%20Budget%202011.pdf
    [53]: /uploads/VAC%20letter%202010%20IE%20and%20BS.pdf
