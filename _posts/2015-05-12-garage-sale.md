@@ -5,8 +5,6 @@ author: Adam
 ---
 
 **When:**   Friday June 5 and Saturday June 6 from 8:00am till 3:00pm
-**Where:**  The Community Room at the Orange Township Pool,
-              7560 Gooding Blvd. 
 
 There will NOT be a fee again this year to participate.
 
