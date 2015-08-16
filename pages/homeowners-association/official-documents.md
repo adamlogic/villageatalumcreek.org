@@ -6,6 +6,7 @@ title: Official Documents/Forms
   * [Village at Alum Creek Deed Restrictions][44]
   * [Articles of Incorporation – Homeowners Association][54]
   * [Code of Regulations (By Laws) for the Village at Alum Creek][55] (revised May 2007)
+  * [VAC Amendments][68]
   * [Printable map of the neighborhood][56]
   * [Application for Property Improvements][57] (decks, patios, additions, etc)
   * [Orange Township Trustee Complaint Form][58] (can be used for complaints such as boat and trailer parking, snow/ice removal, pavement problems, etc.)
@@ -40,3 +41,4 @@ Please review and contact a chairperson or trustee for more information
    [65]: /uploads/SwingSetBasketballPolicy.pdf
    [66]: /uploads/TrailerandCamperParkingCommunicationPolicy.pdf
    [67]: /uploads/VAC%20HOA%20Sign%20Policy%2020070601%20v3.doc
+   [68]: /uploads/VAC%20amendments.pdf
