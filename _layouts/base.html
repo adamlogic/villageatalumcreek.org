@@ -7,13 +7,13 @@
   <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
 
   <link rel="stylesheet" href="{{site.baseUrl}}/stylesheets/layout.css" />
-  <link rel="stylesheet" href="/villageatalumcreek.org/stylesheets/typography.css" />
-  <link rel="stylesheet" href="/villageatalumcreek.org/stylesheets/lightbox.css" />
+  <link rel="stylesheet" href="{{site.baseUrl}}/stylesheets/typography.css" />
+  <link rel="stylesheet" href="{{site.baseUrl}}/stylesheets/lightbox.css" />
 
-  <script type="text/javascript" src="/villageatalumcreek.org/javascripts/prototype.js"></script>
-  <script type="text/javascript" src="/villageatalumcreek.org/javascripts/effects.js"></script>
-  <script type="text/javascript" src="/villageatalumcreek.org/javascripts/lightbox.js"></script>
-  <script type="text/javascript" src="/villageatalumcreek.org/javascripts/wp.js"></script>
+  <script type="text/javascript" src="{{site.baseUrl}}/javascripts/prototype.js"></script>
+  <script type="text/javascript" src="{{site.baseUrl}}/javascripts/effects.js"></script>
+  <script type="text/javascript" src="{{site.baseUrl}}/javascripts/lightbox.js"></script>
+  <script type="text/javascript" src="{{site.baseUrl}}/javascripts/wp.js"></script>
 
   <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
   <script type="text/javascript">
@@ -37,29 +37,21 @@
 
     <div id="navigation">
       <ul>
-        <li class="first"><a href="/villageatalumcreek.org/index.html">Home</a></li>
-        <li><a href="/villageatalumcreek.org/pages/events/index.html">Events</a></li>
-        <li><a href="/villageatalumcreek.org/pages/homeowners-association/index.html">HOA Information</a></li>
-        <li><a href="/villageatalumcreek.org/pages/new-residents.html">New Residents</a></li>
-        <li><a href="/villageatalumcreek.org/pages/classifieds/index.html">Classifieds</a></li>
-        <li><a href="/villageatalumcreek.org/pages/community.html">Area Links</a></li>
+        <li class="first"><a href="{{site.baseUrl}}/index.html">Home</a></li>
+        <li><a href="{{site.baseUrl}}/pages/events/index.html">Events</a></li>
+        <li><a href="{{site.baseUrl}}/pages/homeowners-association/index.html">HOA Information</a></li>
+        <li><a href="{{site.baseUrl}}/pages/new-residents.html">New Residents</a></li>
+        <li><a href="{{site.baseUrl}}/pages/classifieds/index.html">Classifieds</a></li>
+        <li><a href="{{site.baseUrl}}/pages/community.html">Area Links</a></li>
       </ul>
     </div>
 
     <div id="siteSearch">
-      <form action="http://www.google.com/search" method="get" id="frmSiteSearch" name="frmSiteSearch">
-        <input type="hidden" value="UTF-8" id="ie" name="ie"/>
-        <input type="hidden" value="UTF-8" id="oe" name="oe"/>
-        <input type="hidden" value="www.villageatalumcreek.org" id="domains" name="domains"/>
-        <input type="hidden" value="www.villageatalumcreek.org" id="sitesearch" name="sitesearch"/>
-        <input type="text" value="Search this site" id="q" name="q"/>
-        <input type="image" src="/images/searchButton.gif" id="btnSearch" name="btnSearch"/>
-      </form>
     </div>
 
     <div id="pageFooter">
       <p>
-        <a href="/villageatalumcreek.org/pages/administrators-guide/index.html">Administrators Guide</a>
+        <a href="{{site.baseUrl}}/pages/administrators-guide/index.html">Administrators Guide</a>
       </p>
     </div>
   </div>

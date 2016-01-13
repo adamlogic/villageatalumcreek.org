@@ -18,7 +18,7 @@ layout: base
     <ul>
       {% for page in site.pages %}
         {% if page.layout == 'administrators-guide' %}
-          <li><a href="{{page.url}}">{{page.title}}</a></li>
+        <li><a href="{{site.baseUrl}}{{page.url}}">{{page.title}}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
