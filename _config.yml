@@ -1,5 +1,6 @@
 name: Village at Alum Creek
 markdown: kramdown
+baseUrl: /villageatalumcreek.org
 prose:
   siteurl: 'http://www.villageatalumcreek.org/'
   relativeLinks: 'http://www.villageatalumcreek.org/api/links.jsonp'
