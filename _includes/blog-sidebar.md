@@ -119,17 +119,17 @@
 [Western International Securities, Inc.][28]  
 
    [1]: http://www.advancetechinspections.com
-   [2]: /uploads/Art_3.JPG
+   [2]: /villageatalumcreek.org/uploads/Art_3.JPG
    [3]: http://www.appsparamedical.com
    [4]: mailto:architecturalreview@villageatalumcreek.org
    [5]: /pages/homeowners-association/budget.html
    [6]: http://www.clarkseniorservices.ocm
    [7]: http://www.columbushealthandwellness.com
-   [8]: /uploads/warranty_deed_of_restrictions.pdf
+   [8]: /villageatalumcreek.org/uploads/warranty_deed_of_restrictions.pdf
    [9]: mailto:vachoa@villageatalumcreek.org
-   [10]: /uploads/BobCarpenter1.jpg
+   [10]: /villageatalumcreek.org/uploads/BobCarpenter1.jpg
    [11]: http://jedkeslerdds.com/
-   [12]: /uploads/LC%20HVAC%20VAC%20ad%202010%20final.pdf
+   [12]: /villageatalumcreek.org/uploads/LC%20HVAC%20VAC%20ad%202010%20final.pdf
    [13]: https://www.facebook.com/lorihihovacations
    [14]: /pages/classifieds/lost-and-found.html
    [15]: /pages/homeowners-association/mailboxes.html
@@ -139,7 +139,7 @@
    [19]: http://www.orangetwp.org/index.htm
    [20]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CDLKBT8MXTDD2
    [21]: http://www.postnet.com/lewis-center-oh116/
-   [22]: /uploads/AppExternalImprovement.pdf
+   [22]: /villageatalumcreek.org/uploads/AppExternalImprovement.pdf
    [24]: http://www.caringbridge.org/visit/ryanhardy
    [25]: /2010/05/05/neighborhood-email-list.html
    [26]: mailto:blockwatch@villageatalumcreek.org

@@ -23,7 +23,7 @@ title: Support our Sponsors!
 
    [4]: http://www.dr4health.com
    [5]: http://www.appsparamedical.com
-   [6]: /uploads/Sponsor%20copy%202007VACDir.pdf
+   [6]: /villageatalumcreek.org/uploads/Sponsor%20copy%202007VACDir.pdf
    [7]: http://www.powelltkd.com
    [8]: http://www.columbushealthandwellness.com
    [9]: http://www.click2design.com

@@ -26,19 +26,19 @@ Please review and contact a chairperson or trustee for more information
   * [Trailer and Camper Parking Policies][66]
   * [Yard Sign Policies][67]
 
-   [44]: /uploads/warranty_deed_of_restrictions.pdf
-   [54]: /uploads/articles_of_incorporation.pdf
-   [55]: /uploads/VAC%20HOA%20BY-Laws%2005302007%20filed%20copy.pdf
-   [56]: /uploads/Map%20of%20subdivision%20mc13.pdf
-   [57]: /uploads/AppExternalImprovement.pdf
-   [58]: /uploads/OrangeTownshipTrusteeComplaintForm.pdf
-   [59]: /uploads/DuesCollectionPolicy.pdf
-   [60]: /uploads/VAC%20HOA%20Fence%20Policy%2020070601%20v5.doc
-   [61]: /uploads/VAC%20HOA%20Mailbox%20Policy%2020090424%20V2.pdf
-   [62]: /uploads/VAC%20HOA%20Trustee%20Purchase%20Policy%2020070601%20v5.doc
-   [63]: /uploads/PropertyUpkeepCommunicationPolicy.pdf
-   [64]: /uploads/ShedPolicy.pdf
-   [65]: /uploads/SwingSetBasketballPolicy.pdf
-   [66]: /uploads/TrailerandCamperParkingCommunicationPolicy.pdf
-   [67]: /uploads/VAC%20HOA%20Sign%20Policy%2020070601%20v3.doc
-   [68]: /uploads/VAC%20amendments.pdf
+   [44]: /villageatalumcreek.org/uploads/warranty_deed_of_restrictions.pdf
+   [54]: /villageatalumcreek.org/uploads/articles_of_incorporation.pdf
+   [55]: /villageatalumcreek.org/uploads/VAC%20HOA%20BY-Laws%2005302007%20filed%20copy.pdf
+   [56]: /villageatalumcreek.org/uploads/Map%20of%20subdivision%20mc13.pdf
+   [57]: /villageatalumcreek.org/uploads/AppExternalImprovement.pdf
+   [58]: /villageatalumcreek.org/uploads/OrangeTownshipTrusteeComplaintForm.pdf
+   [59]: /villageatalumcreek.org/uploads/DuesCollectionPolicy.pdf
+   [60]: /villageatalumcreek.org/uploads/VAC%20HOA%20Fence%20Policy%2020070601%20v5.doc
+   [61]: /villageatalumcreek.org/uploads/VAC%20HOA%20Mailbox%20Policy%2020090424%20V2.pdf
+   [62]: /villageatalumcreek.org/uploads/VAC%20HOA%20Trustee%20Purchase%20Policy%2020070601%20v5.doc
+   [63]: /villageatalumcreek.org/uploads/PropertyUpkeepCommunicationPolicy.pdf
+   [64]: /villageatalumcreek.org/uploads/ShedPolicy.pdf
+   [65]: /villageatalumcreek.org/uploads/SwingSetBasketballPolicy.pdf
+   [66]: /villageatalumcreek.org/uploads/TrailerandCamperParkingCommunicationPolicy.pdf
+   [67]: /villageatalumcreek.org/uploads/VAC%20HOA%20Sign%20Policy%2020070601%20v3.doc
+   [68]: /villageatalumcreek.org/uploads/VAC%20amendments.pdf

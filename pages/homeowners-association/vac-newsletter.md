@@ -15,10 +15,10 @@ in Fall, Winter, Spring, and Summer.
   * [Winter 2008][78]
   * [Fall 2007][79]
 
-   [73]: /uploads/2010%20Summer%20Newsletter%20.pdf
-   [74]: /uploads/2009_Winter.pdf
-   [75]: /uploads/2008_Fall.pdf
-   [76]: /uploads/2008_Summer.pdf
-   [77]: /uploads/2008_Spring.pdf
-   [78]: /uploads/2008_Winter.pdf
-   [79]: /uploads/2007-october.pdf
+   [73]: /villageatalumcreek.org/uploads/2010%20Summer%20Newsletter%20.pdf
+   [74]: /villageatalumcreek.org/uploads/2009_Winter.pdf
+   [75]: /villageatalumcreek.org/uploads/2008_Fall.pdf
+   [76]: /villageatalumcreek.org/uploads/2008_Summer.pdf
+   [77]: /villageatalumcreek.org/uploads/2008_Spring.pdf
+   [78]: /villageatalumcreek.org/uploads/2008_Winter.pdf
+   [79]: /villageatalumcreek.org/uploads/2007-october.pdf

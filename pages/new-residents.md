@@ -35,6 +35,6 @@ available to new residents, please contact the trustees.
    [2]: mailto:vachoa@villageatalumcreek.org
    [3]: mailto:subscribe@villageatalumcreek.org
    [4]: /pages/resources/township-community.html
-   [5]: /uploads/Directory%20Information%20Sheet.doc
+   [5]: /villageatalumcreek.org/uploads/Directory%20Information%20Sheet.doc
 
 
