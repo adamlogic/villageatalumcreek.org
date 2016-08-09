@@ -17,7 +17,6 @@ The board has several policies in place with regard to the following areas.
 Please review and contact a chairperson or trustee for more information
 
   * [Annual Homeowner Dues Collection Policies][59]
-  * [Fence Guidelines and Policies][60]
   * [Mailbox Policy][61]
   * [Major Purchase Policies][62]
   * [Property Upkeep Policies][63]
@@ -33,7 +32,6 @@ Please review and contact a chairperson or trustee for more information
    [57]: /villageatalumcreek.org/uploads/AppExternalImprovement.pdf
    [58]: /villageatalumcreek.org/uploads/OrangeTownshipTrusteeComplaintForm.pdf
    [59]: /villageatalumcreek.org/uploads/DuesCollectionPolicy.pdf
-   [60]: /villageatalumcreek.org/uploads/VAC%20HOA%20Fence%20Policy%2020070601%20v5.doc
    [61]: /villageatalumcreek.org/uploads/VAC%20HOA%20Mailbox%20Policy%2020090424%20V2.pdf
    [62]: /villageatalumcreek.org/uploads/VAC%20HOA%20Trustee%20Purchase%20Policy%2020070601%20v5.doc
    [63]: /villageatalumcreek.org/uploads/PropertyUpkeepCommunicationPolicy.pdf
